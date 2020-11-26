@@ -1,0 +1,98 @@
+2020-11-26 17:05:57 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 17:06:05 INFO  ApI Test:45 - *********Check status Line*********
+2020-11-26 17:06:05 INFO  ApI Test:36 - *********Check status code*********
+2020-11-26 17:06:05 INFO  ApI Test:27 - *********Checking REsponse body*********
+2020-11-26 17:06:05 INFO  ApI Test:29 - Response Body==>{"data":{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 17:06:05 INFO  ApI Test:22 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 17:06:07 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 17:06:07 INFO  ApI Test:59 - *********Check status Line*********
+2020-11-26 17:06:07 INFO  ApI Test:50 - *********Check status code*********
+2020-11-26 17:06:07 INFO  ApI Test:27 - *********Get all headers list*********
+2020-11-26 17:06:07 INFO  ApI Test:41 - *********Checking REsponse body*********
+2020-11-26 17:06:07 INFO  ApI Test:43 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 17:06:07 INFO  ApI Test:21 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 17:06:09 INFO  ApI Test:18 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 18:54:42 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 18:54:53 INFO  ApI Test:45 - *********Check status Line*********
+2020-11-26 18:54:53 INFO  ApI Test:36 - *********Check status code*********
+2020-11-26 18:54:53 INFO  ApI Test:27 - *********Checking REsponse body*********
+2020-11-26 18:54:53 INFO  ApI Test:29 - Response Body==>{"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 18:54:53 INFO  ApI Test:22 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 18:54:55 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 18:54:56 INFO  ApI Test:59 - *********Check status Line*********
+2020-11-26 18:54:56 INFO  ApI Test:50 - *********Check status code*********
+2020-11-26 18:54:56 INFO  ApI Test:27 - *********Get all headers list*********
+2020-11-26 18:54:56 INFO  ApI Test:41 - *********Checking REsponse body*********
+2020-11-26 18:54:56 INFO  ApI Test:43 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 18:54:56 INFO  ApI Test:21 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 18:54:58 INFO  ApI Test:18 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 18:57:36 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 18:57:46 INFO  ApI Test:45 - *********Check status Line*********
+2020-11-26 18:57:46 INFO  ApI Test:36 - *********Check status code*********
+2020-11-26 18:57:46 INFO  ApI Test:27 - *********Checking REsponse body*********
+2020-11-26 18:57:46 INFO  ApI Test:29 - Response Body==>{"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 18:57:46 INFO  ApI Test:22 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 18:57:49 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 18:57:50 INFO  ApI Test:59 - *********Check status Line*********
+2020-11-26 18:57:50 INFO  ApI Test:50 - *********Check status code*********
+2020-11-26 18:57:50 INFO  ApI Test:27 - *********Get all headers list*********
+2020-11-26 18:57:50 INFO  ApI Test:41 - *********Checking REsponse body*********
+2020-11-26 18:57:50 INFO  ApI Test:43 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 18:57:50 INFO  ApI Test:21 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 18:57:52 INFO  ApI Test:18 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:03:03 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 19:03:11 INFO  ApI Test:45 - *********Check status Line*********
+2020-11-26 19:03:12 INFO  ApI Test:36 - *********Check status code*********
+2020-11-26 19:03:12 INFO  ApI Test:27 - *********Checking REsponse body*********
+2020-11-26 19:03:12 INFO  ApI Test:29 - Response Body==>{"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 19:03:12 INFO  ApI Test:22 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:03:14 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 19:03:17 INFO  ApI Test:59 - *********Check status Line*********
+2020-11-26 19:03:17 INFO  ApI Test:50 - *********Check status code*********
+2020-11-26 19:03:17 INFO  ApI Test:27 - *********Get all headers list*********
+2020-11-26 19:03:17 INFO  ApI Test:41 - *********Checking REsponse body*********
+2020-11-26 19:03:17 INFO  ApI Test:43 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 19:03:17 INFO  ApI Test:21 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:03:18 INFO  ApI Test:18 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:05:57 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 19:06:05 INFO  ApI Test:45 - *********Check status Line*********
+2020-11-26 19:06:05 INFO  ApI Test:36 - *********Check status code*********
+2020-11-26 19:06:05 INFO  ApI Test:27 - *********Checking REsponse body*********
+2020-11-26 19:06:05 INFO  ApI Test:29 - Response Body==>{"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 19:06:05 INFO  ApI Test:22 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:06:07 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 19:06:08 INFO  ApI Test:59 - *********Check status Line*********
+2020-11-26 19:06:08 INFO  ApI Test:50 - *********Check status code*********
+2020-11-26 19:06:08 INFO  ApI Test:27 - *********Get all headers list*********
+2020-11-26 19:06:08 INFO  ApI Test:41 - *********Checking REsponse body*********
+2020-11-26 19:06:08 INFO  ApI Test:43 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 19:06:08 INFO  ApI Test:21 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:06:10 INFO  ApI Test:18 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:06:46 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 19:06:54 INFO  ApI Test:45 - *********Check status Line*********
+2020-11-26 19:06:54 INFO  ApI Test:36 - *********Check status code*********
+2020-11-26 19:06:54 INFO  ApI Test:27 - *********Checking REsponse body*********
+2020-11-26 19:06:54 INFO  ApI Test:29 - Response Body==>{"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 19:06:54 INFO  ApI Test:22 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:06:56 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 19:06:58 INFO  ApI Test:59 - *********Check status Line*********
+2020-11-26 19:06:58 INFO  ApI Test:50 - *********Check status code*********
+2020-11-26 19:06:58 INFO  ApI Test:27 - *********Get all headers list*********
+2020-11-26 19:06:58 INFO  ApI Test:41 - *********Checking REsponse body*********
+2020-11-26 19:06:58 INFO  ApI Test:43 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 19:06:58 INFO  ApI Test:21 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:07:01 INFO  ApI Test:18 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:29:04 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 19:29:15 INFO  ApI Test:45 - *********Check status Line*********
+2020-11-26 19:29:15 INFO  ApI Test:36 - *********Check status code*********
+2020-11-26 19:29:15 INFO  ApI Test:27 - *********Checking REsponse body*********
+2020-11-26 19:29:15 INFO  ApI Test:29 - Response Body==>{"data":{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 19:29:15 INFO  ApI Test:22 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:29:17 INFO  ApI Test:18 - *********Strted TC001_GET_REQUEST*********
+2020-11-26 19:29:18 INFO  ApI Test:59 - *********Check status Line*********
+2020-11-26 19:29:18 INFO  ApI Test:50 - *********Check status code*********
+2020-11-26 19:29:18 INFO  ApI Test:27 - *********Get all headers list*********
+2020-11-26 19:29:18 INFO  ApI Test:41 - *********Checking REsponse body*********
+2020-11-26 19:29:18 INFO  ApI Test:43 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2020-11-26 19:29:18 INFO  ApI Test:21 - *********Strted TC002_POST_REQUEST*********
+2020-11-26 19:29:19 INFO  ApI Test:18 - *********Strted TC002_POST_REQUEST*********

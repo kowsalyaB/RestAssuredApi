@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RestApiSuite">
+
+	<listeners>
+		<listener
+			class-name="DemoAPI.ReportingExtent"></listener>
+	</listeners>
+
+	<test name="RestApiTest">
+		<classes>
+			<class name="org.RestApi.TestCases.TC001_GET_REQUEST"></class>
+			<class name="org.RestApi.TestCases.TC002_POST_REQUEST"></class>
+			<class name="org.RestApi.TestCases.TC004_GET_REQUEST"></class>
+			<class name="org.RestApi.TestCases.TC00_PUT_REQUEST"></class>
+			<class name="org.RestApi.TestCases.TC00_DELETE_REQUEST"></class>
+		</classes>
+
+	</test> <!-- Testdemo -->
+</suite> <!-- Suitetest -->
